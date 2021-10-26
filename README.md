@@ -1,16 +1,16 @@
-### Hi there 👋
+<!-- Introduction -->
 
-<!--
-**KyleRoner/KyleRoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my profile!
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- My Shields -->
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=c03f8f)
+![](https://img.shields.io/badge/editor-Visual_Studio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=c03f8f)
+
+<!-- Importance of open source -->
+ ---
+ 
+### Freetime
+I am currently studying C# and JS on my freetime. My goal is to be able to use C# to make videogames using the Unity game engine as well as creating productivity aplications for Windows.
